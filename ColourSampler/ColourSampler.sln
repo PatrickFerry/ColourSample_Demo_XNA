@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColourSampler", "ColourSampler\ColourSampler\ColourSampler.csproj", "{57D11ADF-C70C-4D37-96DA-6DA15B411643}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ColourSamplerContent", "ColourSampler\ColourSamplerContent\ColourSamplerContent.contentproj", "{9A2DAD08-4F07-4E53-A0C2-3F3BE3FFE349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57D11ADF-C70C-4D37-96DA-6DA15B411643}.Debug|x86.ActiveCfg = Debug|x86
+		{57D11ADF-C70C-4D37-96DA-6DA15B411643}.Debug|x86.Build.0 = Debug|x86
+		{57D11ADF-C70C-4D37-96DA-6DA15B411643}.Release|x86.ActiveCfg = Release|x86
+		{57D11ADF-C70C-4D37-96DA-6DA15B411643}.Release|x86.Build.0 = Release|x86
+		{9A2DAD08-4F07-4E53-A0C2-3F3BE3FFE349}.Debug|x86.ActiveCfg = Debug|x86
+		{9A2DAD08-4F07-4E53-A0C2-3F3BE3FFE349}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
